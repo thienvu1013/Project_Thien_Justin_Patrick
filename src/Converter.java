@@ -11,8 +11,7 @@ public class Converter {
 	}
 	
 	private double fahrenheitToCelsius(double F){
-		// TODO: The second student will implement this method
-		return 0;
+		return (5.0 * (F - 32.0) / 9.0);
 	}
 	
 	public static void main(String[] args) {
