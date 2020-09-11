@@ -22,8 +22,10 @@ public class Converter {
 	public static void main(String[] args) {
 		double test1 = 180;
 		double test2 = 250;
+		double test3 = 30;
 		Converter c = new Converter();
 		System.out.println("Test1: " + c.celsiusToFahrenheit(test1));
 		System.out.println("Test2: " + c.fahrenheitToCelsius(test2));
+		System.out.println("Test3: " + c.kilometersToMiles(test3));
 	}
 }
