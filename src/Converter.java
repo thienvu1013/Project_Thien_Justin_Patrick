@@ -1,7 +1,7 @@
 public class Converter {
 	//Your names go here:
 	/*
-	* @Author: Name of the first student
+	* @Author: Thien Nguyen
 	* Name of the second student
 	* Name of the third student
 	*
