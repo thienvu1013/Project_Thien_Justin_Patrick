@@ -15,6 +15,10 @@ public class Converter {
 		return (5.0 * (F - 32.0) / 9.0);
 	}
 	
+	private double kilometersToMiles(double km){
+		return km / 1.609344;
+	}
+	
 	public static void main(String[] args) {
 		double test1 = 180;
 		double test2 = 250;
