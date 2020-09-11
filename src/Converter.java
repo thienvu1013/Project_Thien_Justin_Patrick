@@ -2,7 +2,7 @@ public class Converter {
 	//Your names go here:
 	/*
 	* @Author: Thien Nguyen
-	* Name of the second student
+	* Justin Leong
 	* Patrick Linang
 	*
 	*/
